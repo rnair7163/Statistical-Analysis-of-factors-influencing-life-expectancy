@@ -1,2 +1,2 @@
-# Analysis-of-factors-attributing-to-Diabetes
-Performing an extensive analysis of factor attributing to diabetes.
+# Statistical Analysis of factors influencing life expectancy
+Performing an extensive analysis of factor attributing to life expectancy.
