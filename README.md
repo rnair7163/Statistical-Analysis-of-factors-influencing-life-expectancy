@@ -9,6 +9,6 @@ For this kind of study, accuracy of information is a must. The dataset related t
 and its corresponding economic data were collected from the United Nation website. The sample is globally representative. Among all categories of health-related factors, only those critical factors were chosen which are more representative. For example, we have immunization related factors , mortality factors, economic and social factors.
 
 ### Contributors:
-- Rahul Nair[https://github.com/rahulmnair1997]
+- (Rahul Nair)[https://github.com/rahulmnair1997]
 - Cheng Jiang [https://github.com/okcheng0504mm]
 - Yurun Liu [https://github.com/yurunliu66]
